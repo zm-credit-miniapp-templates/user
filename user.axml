@@ -1,0 +1,9 @@
+<!--
+  name: string
+  age: int
+-->
+<template name="user">
+  <view>
+    <text> {{name}}, you are {{age}} years old </text>
+  </view>
+</template>
